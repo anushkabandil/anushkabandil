@@ -62,9 +62,9 @@ AI-powered GitHub repository evaluator analyzing project quality and structure.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkabandil&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anushkabandil&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkabandil&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anushkabandil&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -72,7 +72,7 @@ AI-powered GitHub repository evaluator analyzing project quality and structure.
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anushkabandil&theme=onedark&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anushkabandil&theme=onedark&no-frame=true" />
 </p>
 
 ---
