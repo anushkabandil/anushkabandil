@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Anushka Bandil</h1>
-<h3 align="center">B.Tech CSE (3rd Year) | Java Developer | Web & IoT Enthusiast</h3>
+<h3 align="center">B.Tech CSE | Java Developer | Web & IoT Enthusiast</h3>
 
 <p align="center">
 Passionate about building scalable web applications, exploring IoT systems, 
@@ -21,14 +21,28 @@ and strengthening cybersecurity fundamentals.
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 IoT & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+### 🛠️ Design & Tools
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### ⚙️ Interests
 IoT Systems | Backend Development | Cybersecurity
@@ -43,15 +57,14 @@ Structured collection of topic-wise LeetCode solutions focused on optimized logi
 ### 🤖 GitGrade
 AI-powered GitHub repository evaluator analyzing project quality and structure.
 
-(Add future strong backend/full-stack projects here.)
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkabandil&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkabandil&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkabandil&show_icons=true&theme=radical&cache_seconds=1800" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkabandil&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
@@ -59,7 +72,7 @@ AI-powered GitHub repository evaluator analyzing project quality and structure.
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anushkabandil&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anushkabandil&theme=onedark&margin-w=10&margin-h=10" />
 </p>
 
 ---
