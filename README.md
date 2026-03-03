@@ -69,9 +69,7 @@ AI-powered GitHub repository evaluator analyzing project quality and structure.
 
 ## 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anushkabandil&theme=onedark&no-frame=true" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=anushkabandil&theme=tokyonight&row=1&column=6" />
 
 ---
 
