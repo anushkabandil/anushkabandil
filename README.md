@@ -1,4 +1,7 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Anushka+Bandil;Java+Developer;Web+Developer;IoT+Enthusiast;Always+Learning+New+Things" />
+<p align="center">
+  <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Anushka+Bandil;Java+Developer;Web+Developer;IoT+Enthusiast;Always+Learning+New+Things" />  
+</p>
+
 <h1 align="center">Hey 👋I'm Anushka Bandil</h1>
 <h3 align="center">B.Tech CSE | Java Developer | Web & IoT Enthusiast</h3>
 
