@@ -1,9 +1,9 @@
-<h1 align="center">Hey, I'm Anushka Bandil</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Anushka+Bandil;Java+Developer;Web+Developer;IoT+Enthusiast;Always+Learning+New+Things" />
+<h1 align="center">Hey 👋I'm Anushka Bandil</h1>
 <h3 align="center">B.Tech CSE | Java Developer | Web & IoT Enthusiast</h3>
 
 <p align="center">
-Passionate about building scalable web applications, exploring IoT systems, 
-and strengthening cybersecurity fundamentals.
+Passionate about building scalable web applications, exploring IoT-based systems, and strengthening cybersecurity fundamentals. I enjoy solving problems, building meaningful projects, and continuously learning new technologies.
 </p>
 
 ---
@@ -61,11 +61,9 @@ AI-powered GitHub repository evaluator analyzing project quality and structure.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anushkabandil&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anushkabandil&layout=compact&theme=tokyonight" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anushkabandil&theme=tokyo-night)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=anushkabandil&theme=tokyonight)
 
 ---
 
