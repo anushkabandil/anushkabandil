@@ -66,7 +66,7 @@ AI-powered GitHub repository evaluator analyzing project quality and structure.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anushkabandil&theme=tokyo-night)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anushkabandil&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=anushkabandil&theme=tokyonight&border_radius=10)
 
 ---
 
